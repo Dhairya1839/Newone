@@ -1,25 +1,8 @@
 <div align="center">
   <img src="readme-res/logo.svg" width="20%" />
-  <br><br>
+  
   <p align="center">
-    <img src="https://img.shields.io/github/v/release/MrDemonc/Lune?style=for-the-badge&logo=android&label=Lune&color=blue" />
-    <img src="https://img.shields.io/badge/Android-API%2024%2B-green?style=for-the-badge&logo=android&logoColor=white" />
-    <img src="https://img.shields.io/badge/Kotlin-100%25-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" /><br>
-    <a href="https://www.paypal.com/paypalme/TommyZambrano">
-      <img src="https://img.shields.io/badge/PayPal-Donate-00457C?style=for-the-badge&logo=paypal&logoColor=white"/>
-    </a>
-    <a href="https://ko-fi.com/mrdemonc">
-      <img src="https://img.shields.io/badge/Ko--fi-Buy me a coffee-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white"/>
-    </a>
-    <a href="https://github.com/MrDemonc/Lune#-monero-xmr">
-      <img src="https://img.shields.io/badge/Monero-Donate-FF6600?style=for-the-badge&logo=monero&logoColor=white"/>
-    </a>
-    <a href="https://mrdemonc.github.io/Lune">
-      <img src="https://img.shields.io/badge/Website-Visit-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-    </a>
-  </p>
-  <p align="center">
-    Lune is a minimalist and elegant music player for Android, designed with a focus on aesthetics and a premium user experience. 
+    Panchajanya is a minimalist and elegant music player for Android, designed with a focus on aesthetics and a premium user experience. 
     It features a modern Jetpack Compose UI, dynamic color support, and a unique high-quality dark defocus widget system.
   </p>
 </div>
