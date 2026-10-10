@@ -38,10 +38,7 @@
 - **Custom Title**: Customize the application title from the settings.
 
 ### 👥 The Community
-
 - [Code of Conduct](CODE_OF_CONDUCT.md)
 - [License](LICENSE)
 - [Security Policy](SECURITY.md)
 - [Technical Reference](TECHNICAL_REFERENCE.md)
-
-## Other Donation Options
