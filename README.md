@@ -1,6 +1,11 @@
 <div align="center">
-  <img src="readme-res/ic_launcher_round.png" width="20%" />
+  <img src="readme-res/ic_launcher_round.png" width="40%" />
   
+# Panchajanya
+
+  ### Music player for Android
+  
+</div>
   <p align="center">
     Panchajanya is a minimalist and elegant music player for Android, designed with a focus on aesthetics and a premium user experience. 
     It features a modern Jetpack Compose UI, dynamic color support, and a unique high-quality dark defocus widget system.
